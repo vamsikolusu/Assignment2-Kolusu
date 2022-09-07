@@ -27,3 +27,12 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 *  Humayun's Tomb
 
 [click here to navigate to AboutMe file](AboutMe.md)
+
+---
+  favourite place to visit in india if you have one favorite place,which is the mall, you would say:The shopping mall is my favorite place to vist.
+| city |  location |  time  |
+| :---: |  :---:  | :---:|
+| Delhi |   Red fort| 3 hours|
+| Kolkata | Howrah Bridgr| 2 hours|
+|  Goa |  Panaji |  5 hours|
+| Goa | Agonda | 3 hours|
