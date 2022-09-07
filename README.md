@@ -39,7 +39,7 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 
 
 ------
-
+## Favourite Inspirational Quotes :
 > The way to get started is to quit talking and begin doing. - *Walt Disney*
 <br>
 
@@ -48,7 +48,7 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 
 ---------
 
-> Calculate time for each step of a shell script and show total execution time - [stackoverflow.com](https://stackoverflow.com/questions/51801292/calculate-time-for-each-step-of-a-shell-script-and-show-total-execution-time)
+> Calculate time for each step of a shell script and show total execution time - stackoverflow.com <https://stackoverflow.com/questions/51801292/calculate-time-for-each-step-of-a-shell-script-and-show-total-execution-time>
 
 ```
 $execution_time = microtime(); // Start counting
@@ -59,3 +59,5 @@ $execution_time = microtime() - $execution_time;
 printf('It took %.5f sec', $execution_time);
 
 ```
+
+Lets go to sinppet <https://css-tricks.com/snippets/php/count-script-excecution-time/>
