@@ -22,4 +22,6 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 3. And it will take 40 minutes to reach the museaum.
 4. Finally reached to the museaum.
 
-
+*  Red Fort
+*  Jama Masjid
+*  Humayun's Tomb
