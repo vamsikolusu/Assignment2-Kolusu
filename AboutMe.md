@@ -8,4 +8,4 @@ introduce a new category of devices that are used to communicate with each other
 intervention.
 
 
-![Home](vamsi.jpg "hall")
+![MyPic](vamsi.jpg)
