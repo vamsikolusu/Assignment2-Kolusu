@@ -44,3 +44,18 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 <br>
 
 > If life were predictable it would cease to be life, and be without flavor. - *Eleanor Roosevelt*
+
+
+---------
+
+> Calculate time for each step of a shell script and show total execution time - [stackoverflow.com](https://stackoverflow.com/questions/51801292/calculate-time-for-each-step-of-a-shell-script-and-show-total-execution-time)
+
+```
+$execution_time = microtime(); // Start counting
+
+// Your code
+
+$execution_time = microtime() - $execution_time;
+printf('It took %.5f sec', $execution_time);
+
+```
