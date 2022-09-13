@@ -38,15 +38,17 @@ The Nehru Memorial Museum & Library is a museum and library in New Delhi <br> In
 | Goa | Agonda | 3 hours|
 
 
-------
-## Favourite Inspirational Quotes :
+---
+## Favourite motivational Quotes :
 > ***The way to get started is to quit talking and begin doing.*** - *Walt Disney*
 <br>
 
 > If life were predictable it would cease to be life, and be without flavor. - *Eleanor Roosevelt*
 
 
----------
+---
+## code fencing section: <br>
+
 
 > Calculate time for each step of a shell script and show total execution time - stackoverflow.com <https://stackoverflow.com/questions/51801292/calculate-time-for-each-step-of-a-shell-script-and-show-total-execution-time>
 
